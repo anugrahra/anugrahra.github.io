@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Serif');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	color: #485d6f;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+ul {
+	list-style: none;
+}
+
+body {
+	height: 100vh;
+	margin-left: 2em;
+	position: relative;
+	font-family: 'IBM Plex Serif', serif;
+	color: rgb(87, 87, 87);
+}
+
+footer {
+	margin-top: 50px;
+	margin-bottom: 10px;
+	font-size: 0.75em;
+	color: grey;
+}
